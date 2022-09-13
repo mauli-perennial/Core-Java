@@ -12,7 +12,7 @@ public class DistinctPrimitivesAndStrings {
         List<String> distinctItems =
                 list.stream().distinct().collect(Collectors.toList());
 
-        // Let's verify distinct elements
+        // Let's verify distinct elementsdsfsf
         System.out.println(distinctItems);
     }
 }
